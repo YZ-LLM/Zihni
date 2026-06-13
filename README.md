@@ -1,4 +1,4 @@
-<img width="329" height="170" alt="image" src="https://github.com/user-attachments/assets/e1cefd23-3c00-4438-91a6-e174cf4238da" />
+<img width="658" height="340" alt="image" src="https://github.com/user-attachments/assets/e1cefd23-3c00-4438-91a6-e174cf4238da" />
 
 
 brainlm_current.py — Karakter n-gram + Hebbian eğitimi, BPB 0.9155
